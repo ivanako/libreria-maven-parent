@@ -1,0 +1,10 @@
+# maven
+target/
+
+# eclipse
+.settings/
+.classpath
+.project
+
+# git
+.gitattributes
